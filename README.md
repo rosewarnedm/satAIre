@@ -28,3 +28,11 @@ Christmas future for an ex-prince...
 
 Maybe 2026 will be the year for Andrew to rediscover the joy of sweating.
 
+## December 28 2025
+
+Leaders keep on track...
+
+![](assets/Keir_U_turn.jpg)
+
+We all respect a leader who can stay on a principled course despite the buffeting of events.  Keir ain't a leader...
+
