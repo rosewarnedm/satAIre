@@ -3,7 +3,7 @@ import base64
 client = OpenAI()
 
 prompt = """
-A cartoon of the Prime Minister yoked to a plough as a beast of burden (horses body and Keir's head) and ploughing a deep U-shaped furrow whilst farmers look on derisively"""
+A cartoon of a muscled guy in sunglasses trying to park his Ferrari and berating a wizened pensioner in a disabled parking space standing by an old-style beat up rusty mini with the speech bubble 'Hop it old timer, this is my Motability space'"""
 
 result = client.images.generate(
     model="gpt-image-1",
@@ -14,5 +14,5 @@ image_base64 = result.data[0].b64_json
 image_bytes = base64.b64decode(image_base64)
 
 # Save the image to a file
-with open("Keir_U_turn.png", "wb") as f:
+with open("Motability.png", "wb") as f:
     f.write(image_bytes)

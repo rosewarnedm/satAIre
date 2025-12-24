@@ -36,3 +36,19 @@ Leaders keep on track...
 
 We all respect a leader who can stay on a principled course despite the buffeting of events.  Keir ain't one of those beasts...
 
+## December 28 2025
+
+Leaders keep on track...
+
+![](assets/Keir_U_turn.jpg)
+
+We all respect a leader who can stay on a principled course despite the buffeting of events.  Keir ain't one of those beasts...
+
+## December 29 2025
+
+Motability
+
+![](assets/Motability.jpg)
+
+Of course people without a car for any reason are ENTITLED to a good new car every 3 years at taxpayers' expense on entering a suitable fiction on the application.
+
