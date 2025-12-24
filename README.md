@@ -17,9 +17,14 @@ Santa set to experience multiple delays throughout the NHS ruining Christmas for
 Fair fights...
 
 ![](assets/Einstein_jake_paul.jpg)
+
 Where next for prankster Jake Paul?  A high 8 figure mathematics bout? Surely the joke is on the rest of us.
 
+## December 27 2025
 
+Christmas future for an ex-prince...
 
+![](assets/Andrew_MBW.jpg)
 
+Maybe 2026 will be the year for Andrew to rediscover the joy of sweating.
 
