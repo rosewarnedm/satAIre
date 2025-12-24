@@ -1,30 +1,20 @@
 from openai import OpenAI
 import base64
-
 client = OpenAI()
 
-prompt = ('''
-Make me a cartoon with a battered Jake Paul and Einstein in a maths competition.  They are in a boxing ring.  Einstein is in front of a blackboard with Tensor calculus.  Jake Pauls board says '1 on 1 = $92 000 000'
+prompt = """
+A cartoon showing the English cricket team looking dejected and sooty with flames in the background at an Australian cricket ground. The crowd is holding banners saying
+'Take that Poms' and 'Something to whinge about'.
+"""
 
-'''
+result = client.images.generate(
+    model="gpt-image-1",
+    prompt=prompt
 )
 
-response = client.responses.create(
-    model="gpt-5",
-    input=prompt,
-    tools=[{"type": "image_generation"}],
-)
+image_base64 = result.data[0].b64_json
+image_bytes = base64.b64decode(image_base64)
 
-# Extract base64 image from the response
-image_base64 = None
-for output in response.output:
-    if output.type == "image_generation_call":
-        image_base64 = output.result
-        break
-
-if image_base64:
-    with open("Einstein_Jake_Paul.png", "wb") as f:
-        f.write(base64.b64decode(image_base64))
-    print("Saved christmas_doghouse.png")
-else:
-    raise RuntimeError("No image returned from GPT-5 image generation")
+# Save the image to a file
+with open("Ashes.png", "wb") as f:
+    f.write(image_bytes)

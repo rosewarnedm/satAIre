@@ -1,4 +1,10 @@
-## December 24th 2025
+## Christmas Eve 2025
+
+More than bails got burnt this Ashes...
+
+![](assets/Ashes.jpg)
+
+## Christmas Day 2025
 
 Winter pressures...
 
@@ -6,12 +12,12 @@ Winter pressures...
 
 Santa set to experience multiple delays throughout the NHS ruining Christmas for all children downstream of the UK.  Wes will have to answer for it.
 
-## December 25th 2025
+## Boxing day 2025
 
 Fair fights...
 
 ![](assets/Einstein_jake_paul.jpg)
-Where next for prankster Jake Paul?  A high 8 figure mathematics competition? Surely the joke is on us.
+Where next for prankster Jake Paul?  A high 8 figure mathematics bout? Surely the joke is on the rest of us.
 
 
 
