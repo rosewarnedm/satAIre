@@ -45,3 +45,20 @@ Motability
 
 Of course people without a car for any reason are ENTITLED to a good new car every 3 years at taxpayers' expense on entering a suitable fiction on the application.
 
+## December 30 2025
+
+About 5 years ago...
+
+![](assets/Mone_PPE.jpg)
+
+NHS rejected the to become baroness' PPE as unsuitable for COVID protection.  Any sign of the money back in the public purse yet?
+
+## December 31 2025
+
+What tool hath been wrought
+
+![](assets/Starmer_tool.jpg)
+
+Starmer snr was a toolmaker...  What do toolmaker's make?
+
+
