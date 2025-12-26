@@ -55,10 +55,9 @@ NHS rejected the to become baroness' PPE as unsuitable for COVID protection.  An
 
 ## December 31 2025
 
-What tool hath been wrought
+A tool
 
 ![](assets/Starmer_tool.jpg)
 
-Starmer snr was a toolmaker...  What do toolmaker's make?
-
+Starmer snr was a toolmaker... every job needs a good tool - is this one suited to the job in hand?
 
