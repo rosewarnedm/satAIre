@@ -1,4 +1,4 @@
-## Christmas Eve 2025
+emacs ## Christmas Eve 2025
 
 More than bails got burnt this Ashes...
 
@@ -55,9 +55,23 @@ NHS rejected the to become baroness' PPE as unsuitable for COVID protection.  An
 
 ## December 31 2025
 
-A tool
+Hollow ashes victory for England - Australia beaten by the furry green monster created by their groundsman.
 
-![](assets/Starmer_tool.jpg)
+![](assets/Ashes_furry_green.jpg)
 
-Starmer snr was a toolmaker... every job needs a good tool - is this one suited to the job in hand?
+## January 1st 2026
+
+A tool for every job
+
+![](assets/Ashes_furry_green.jpg)
+
+Even the top job.  I blame Dad the toolmaker
+
+## January 2nd 2026
+
+Marry in haste, repent at your leisure
+
+![](assets/Sussexes_friends.jpg)
+
+Every day spent in the company of friends and family is blessed, As Ever
 
