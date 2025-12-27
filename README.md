@@ -1,4 +1,4 @@
-emacs ## Christmas Eve 2025
+## Christmas Eve 2025
 
 More than bails got burnt this Ashes...
 
