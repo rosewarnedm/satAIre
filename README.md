@@ -34,7 +34,7 @@ Leaders keep on track...
 
 ![](assets/Keir_U_turn.jpg)
 
-We all respect a leader who can stay on a principled course despite the buffeting of events.  Keir ain't one of those beasts...
+We all respect a leader who can stay on a straight course despite the buffeting of events.  Keir ain't one of those beasts...
 
 
 ## December 29 2025
@@ -63,7 +63,7 @@ Hollow ashes victory for England - Australia beaten by the furry green monster c
 
 A tool for every job
 
-![](assets/Ashes_furry_green.jpg)
+![](assets/Starmer_tool.jpg)
 
 Even the top job.  I blame Dad the toolmaker
 
@@ -74,4 +74,3 @@ Marry in haste, repent at your leisure
 ![](assets/Sussexes_friends.jpg)
 
 Every day spent in the company of friends and family is blessed, As Ever
-
