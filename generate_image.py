@@ -2,7 +2,7 @@ from openai import OpenAI
 import base64
 client = OpenAI()
 
-prompt = """ Create a cartoon of Meghan and Harry playing hide and seek in their Montecito palace trying, but failing, to find a real friend, Meghan saying "H, be a poppet and find me a real 'As Ever' friend" 
+prompt = """Show our Prime Minister Keir as having an archery target for a body with arrows sticking out at various points including the bulls-eye.  Make the background a green and pleasant land in which dogs and monkeys roam dressed as humans.  Caption the picture with 'Bullseye'
 """
 
 result = client.images.generate(
@@ -14,5 +14,5 @@ image_base64 = result.data[0].b64_json
 image_bytes = base64.b64decode(image_base64)
 
 # Save the image to a file
-with open("Sussexes_friends.png", "wb") as f:
+with open("Keir_target.png", "wb") as f:
     f.write(image_bytes)

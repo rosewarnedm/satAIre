@@ -74,3 +74,11 @@ Marry in haste, repent at your leisure
 ![](assets/Sussexes_friends.jpg)
 
 Every day spent in the company of friends and family is blessed, As Ever
+
+## January 3rd 2026
+
+Soft target
+
+![](assets/Keir_target.jpg)
+
+Not just a hapless target for satire, but making it a 'top priority' to invite Alaa Abd el-Fattah to our green and pleasant land to target its inhabitant 'dogs and monkeys' would seem to be a spectacularly incompetent own-goal.
