@@ -88,3 +88,12 @@ Soft target
 ![](assets/Keir_target.jpg)
 
 Not just a hapless target for satire, but making it a 'top priority' to invite Alaa Abd el-Fattah to our green and pleasant land to target its inhabitant 'dogs and monkeys' is a spectacularly incompetent own-goal.
+
+## January 5th 2026
+
+Trump has been big game hunting...
+
+![](assets/Rendition.jpg)
+
+The first time didn't work out so well.
+
